@@ -2,7 +2,7 @@
 
 ## How to checkout repo 
 
-From your CMSSW_X_Y_Z/src/ directory (after checking out any C++ code you need first):
+From your CMSSW_X_Y_Z/src/ directory (after doing "cmsenv" & checking out any C++ code you need first):
 
 * git clone git@github.com:cms-L1TK/MCsamples.git
 
