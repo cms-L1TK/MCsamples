@@ -1,11 +1,10 @@
-# MCsamples
-Python files to simplify access to MC datasets from CMSSW
-Scripts & card files providing easy access to MC samples.
-==========================================================
+# Python scripts to simplify MC dataset access from CMSSW
 
-## HOW TO GET THE SCRIPTS & CARD FILES
------------------------------------------
+## How to checkout repo
 
+From your CMSSW_X_Y_Z/src/ directory:
+
+a) git clone 
 a) Download the scripts by going to your top-level CMSSW_xyz/src/ directory, then:
 
 mkdir MCsamples
