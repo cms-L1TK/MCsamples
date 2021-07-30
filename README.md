@@ -4,7 +4,7 @@
 
 From your CMSSW_X_Y_Z/src/ directory (after checking out any C++ code you need first):
 
-* git clone git@github.com:cms-L1TK/MCsamples.git .
+* git clone git@github.com:cms-L1TK/MCsamples.git
 
 ## How to create a _cfi.py file for each required MC dataset
 
