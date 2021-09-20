@@ -28,7 +28,9 @@ dirName = "../../RelVal_1130_D76/python/"
 dataList = [
 # D76 geometry
 '/RelValTTbar_14TeV/CMSSW_11_3_0-113X_mcRun4_realistic_v7_2026D76noPU-v1/GEN-SIM-DIGI-RAW',	'/RelValTTbar_14TeV/CMSSW_11_3_0_pre6-PU_113X_mcRun4_realistic_v6_2026D76PU200-v1/GEN-SIM-DIGI-RAW',	'/RelValTTbar_14TeV/CMSSW_11_3_0_pre6-PU_113X_mcRun4_realistic_v6_2026D76PU200-v1/GEN-SIM-DIGI-RAW',	'/RelValSingleElectronFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',
-'/RelValSingleMuFlatPt2To100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',	'/RelValSingleMuFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',	'/RelValDisplacedMuPt2To100Dxy100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',
+'/RelValSingleMuFlatPt2To100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',	
+'/RelValSingleMuFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU_rsb-v1/GEN-SIM-DIGI-RAW',
+'/RelValDisplacedMuPt2To100Dxy100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW',
 '/RelValDisplacedMuPt1p5To8Dxy100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D76noPU-v1/GEN-SIM-DIGI-RAW'
 ]
 
