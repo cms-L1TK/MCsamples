@@ -29,7 +29,8 @@ dataList = [
 '/RelValTTbar_14TeV/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',
 '/RelValTTbar_14TeV/CMSSW_11_3_0_pre3-PU_113X_mcRun4_realistic_v3_2026D49PU200_rsb-v1/GEN-SIM-DIGI-RAW',
 '/RelValSingleEFlatPt2To100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',
-'/RelValSingleElectronFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU_rsb-v1/GEN-SIM-DIGI-RAW',	'/RelValSingleMuFlatPt2To100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',
+'/RelValSingleElectronFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU_rsb-v1/GEN-SIM-DIGI-RAW',
+'/RelValSingleMuFlatPt2To100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',
 '/RelValSingleMuFlatPt1p5To8/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',
 '/RelValDisplacedMuPt2To100Dxy100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW',	'/RelValDisplacedMuPt1p5To8Dxy100/CMSSW_11_3_0_pre6-113X_mcRun4_realistic_v6_2026D49noPU-v1/GEN-SIM-DIGI-RAW'
 ]
