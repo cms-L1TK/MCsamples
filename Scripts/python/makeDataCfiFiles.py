@@ -35,7 +35,7 @@ def makeDataCfiFiles(dirName, dataList):
       elif (words[2].find("PU200") >= 0):
           PU = "PU200"
       else:
-          print "ERROR: Unknown pileup " + data
+          print("ERROR: Unknown pileup " + data)
           exit(1)
 
       # Produce output _cfi.py file
@@ -46,7 +46,7 @@ def makeDataCfiFiles(dirName, dataList):
       stdout_store = sys.stdout
       sys.stdout = open(fileName, "w")
       # Create function returning output list
-      print "def getCMSdataFromCards():"
-      print "   return ",flist
+      print("def getCMSdataFromCards():")
+      print("   return ",flist)
       sys.stdout = stdout_store
-      print fileName + " created"
+      print(fileName + " created")

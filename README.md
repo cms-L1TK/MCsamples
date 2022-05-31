@@ -16,11 +16,11 @@ If your desired dataset is missing:
 1) cd MCsamples/Scripts/python/
 2) cp getMC_11_3_0_D76.py myNewScript.py
 3) Edit myNewScript.py, to specify the dataset names you want & name of output directory to be created for your new _cfi.py files.
-4) python myNewScript.py  
+4) python3 myNewScript.py  
 
-## How to access MC from your CMSSW job's _cfg.py file
+## How to access MC from your CMSSW job's *_cfg.py file
 
-Use one of the following three options in your _cfg.py file:
+Add one of the following three options in your *_cfg.py file:
 
 a) Read MC dataset from a specified card file:
 

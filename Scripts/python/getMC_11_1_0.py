@@ -18,7 +18,7 @@ from makeDataCfiFiles import *
 import os
 
 if (not os.path.exists("getCMSdata_cfi.py")):
-    print "ERROR: You must run this script from the directory containing it!"
+    print("ERROR: You must run this script from the directory containing it!")
     exit(1)
 
 # Name of output directory (will be created if not existing)
