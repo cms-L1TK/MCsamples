@@ -14,7 +14,7 @@ where the directory name gives the CMSSW version (and sometimes geometry too).
 If your desired dataset is missing:
 
 1) cd MCsamples/Scripts/python/
-2) cp getMC_11_3_0_D76.py myNewScript.py
+2) cp getMC_15_1_0_D110.py myNewScript.py
 3) Edit myNewScript.py, to specify the dataset names you want & name of output directory to be created for your new _cfi.py files.
 4) python3 myNewScript.py  
 
