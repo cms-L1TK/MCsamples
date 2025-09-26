@@ -34,6 +34,8 @@ def makeDataCfiFiles(dirName, dataList):
           PU = "PU140"
       elif (words[2].find("PU200") >= 0):
           PU = "PU200"
+      elif (words[2].find("PU_") >= 0):
+          PU = "PU200"
       else:
           print("ERROR: Unknown pileup " + data)
           exit(1)
