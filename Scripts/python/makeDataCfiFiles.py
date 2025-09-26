@@ -41,7 +41,10 @@ def makeDataCfiFiles(dirName, dataList):
           exit(1)
 
       # Produce output _cfi.py file
-      typeMC = words[1].replace('RelVal','')
+      typeMC = words[1]
+      typeMC = typeMC.replace('RelVal','')
+      typeMC = typeMC.replace('_TuneCP5','')
+      typeMC = typeMC.replace('GunProducer','')
       fileName = dirName + PU + "_" + typeMC + '_cfi.py'
 
       # Python can't print list directly to file, so do this ...
