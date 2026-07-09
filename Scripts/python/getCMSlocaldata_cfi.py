@@ -19,7 +19,7 @@
 
 import os
 def getCMSlocaldata( dirName ):
-  cmd = '\ls ' + dirName + '/*.root'
+  cmd = 'ls ' + dirName + '/*.root'
   files = os.popen(cmd).read()
   # Create python list containing file names.
   flist = files.split('\n')
